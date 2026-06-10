@@ -6,7 +6,7 @@
 
 ## O que é o Order?
 
-**Order** é uma palavra de origem Latina que significa *ordem*, é um gerenciador de tarefas desenvolvido para a comunidade Open Source, pelos programadores Gladiston Azevedo e Hudson Peixoto.
+**Order** é uma palavra de origem Latina que significa *ordem*, é um gerenciador de tarefas desenvolvido para a comunidade Open Source, pelos programadores Gladiston Azevedo, Hudson Peixoto, Elias Souza, Pedro.
 
 ## O que o programa faz?
 
